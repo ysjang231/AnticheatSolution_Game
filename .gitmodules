@@ -1,0 +1,6 @@
+[submodule "AnticheatSolution_GameClient"]
+	path = AnticheatSolution_GameClient
+	url = https://github.com/ysjang231/AnticheatSolution_GameClient.git
+[submodule "AnticheatSolution_GameServer"]
+	path = AnticheatSolution_GameServer
+	url = https://github.com/ysjang231/AnticheatSolution_GameServer.git
